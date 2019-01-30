@@ -1,0 +1,71 @@
+ /*----------------Global Style--------------*/
+.alert{
+	display: none;
+}
+
+#spanglyph{
+	height: 20px;
+}
+
+/*----------------Layout--------------------*/
+
+.footer{
+
+}
+
+.rightDiv{
+	position: fixed;
+}
+
+#search{
+	width: 300px;
+}
+
+#cardNumber, #employeeId{
+	width: 120px;
+}
+
+.profileInfo{
+	width: 60%;
+}
+
+.separator{
+	border: 1px solid black;
+}
+
+/*----------------Modal---------------------*/
+
+
+/*----------------Typography----------------*/
+.details{
+	font-family: "arial";
+	border: 1px dotted black;
+	font-size: 14px;
+}
+
+/*----------------NavBar--------------------*/
+.navbar{
+	background-color: #800000 !important;
+}
+
+.nav > li > a{
+	color: white;
+	background-color: #800000;
+}
+
+.nav > li > a:hover{
+	background-color: #660000 !important;
+}
+
+.nav > li > a:active{
+	background-color: #660000 !important;
+}
+/*---------------Forms----------------------*/
+
+.navSpan{
+	color: white;
+	margin-left: 5px;
+}
+
+
+/*-----------Media Queries------------------*/
